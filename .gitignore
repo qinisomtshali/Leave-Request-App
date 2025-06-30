@@ -1,0 +1,26 @@
+# Node modules and dependency folders (if ever used for docs/tools)
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# OS & IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Power Platform exports (just in case)
+*.msapp
+*.zip
+
+# Office temp/cache
+~$*
