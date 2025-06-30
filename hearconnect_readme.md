@@ -46,13 +46,13 @@ The Leave Request App is designed for modern organizations looking to digitize a
 
 > 📸 *Note: All screenshots use mock/demo data to protect internal information.*
 
-<img src="images/app-dashboard.png" alt="App Dashboard" width="600"/>
+<img src="screenshots/leavebalance.jpg" alt="App Dashboard" width="600"/>
 <p align="center"><i>Main dashboard showing leave requests and team calendar</i></p>
 
-<img src="images/leave-form.png" alt="Leave Form" width="600"/>
+<img src="screenshots/leaveform.png" alt="Leave Form" width="600"/>
 <p align="center"><i>Leave request form with document upload</i></p>
 
-<img src="images/team-calendar.png" alt="Team Calendar" width="600"/>
+<img src="screenshots/leavecalendar.png" alt="Team Calendar" width="600"/>
 <p align="center"><i>Team calendar view for scheduling awareness</i></p>
 
 ---
