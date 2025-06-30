@@ -1,0 +1,14 @@
+# Auto normalize line endings
+* text=auto
+
+# Markdown formatting
+*.md text
+*.html text
+*.css text
+*.js text
+
+# Images (keep as binary)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
